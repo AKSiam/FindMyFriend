@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757724612959",
+    "project_id": "findmyfriend-04-10",
+    "storage_bucket": "findmyfriend-04-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757724612959:android:acd15da29e179389dd4eea",
+        "android_client_info": {
+          "package_name": "com.example.findmyfriend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWUBfUQVHAOFk7IsxoSXY395mjrh5HgcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
